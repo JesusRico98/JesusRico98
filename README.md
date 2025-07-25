@@ -51,6 +51,6 @@ I am a Software Engineer with over 3 years of experience in academic projects, p
 </span>
 <h4> 🕓 Version Control </h4>
 <span> 
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
