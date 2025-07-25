@@ -8,7 +8,7 @@
 I am a Software Engineer with over 3 years of experience in academic projects, professional internships, and freelance work. Full stack and mobile developer focused on building efficient, well-structured applications by following best practices such as Clean Architecture. Skilled in teamwork, proper code documentation, and delivering functional solutions on time.
 
 <br>
-<h4> Languages </h4>
+<h4> 📋 Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -20,14 +20,12 @@ I am a Software Engineer with over 3 years of experience in academic projects, p
   <img src= "https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
   <img src= "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </span>
-<h4> Database </h4>
+<h4>💾 Database </h4>
 <span> 
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </span>
-<span> 
-### 🎨 Design
-</span>
+<h4> 🎨 Desing </h4>
 
