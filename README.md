@@ -54,6 +54,8 @@ I am a Software Engineer with over 3 years of experience in academic projects, p
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
+<h2>Github stats:</h2> 
+
 [![](https://github-readme-stats.vercel.app/api?username=JesusRico98&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/JesusRico98)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=JesusRico98&theme=material-palenight)](https://github.com/JesusRico98)
 
