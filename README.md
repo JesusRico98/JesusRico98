@@ -61,5 +61,4 @@ I am a Software Engineer with over 3 years of experience in academic projects, p
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusRico98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
----
-[![](https://visitcount.itsvg.in/api?id=JesusRico98&icon=0&color=0)](https://visitcount.itsvg.in)
+
