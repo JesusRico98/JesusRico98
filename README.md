@@ -59,9 +59,7 @@ I am a Software Engineer with over 3 years of experience in academic projects, p
   <a href="https://github.com/JesusRico98">
 <img src="https://github-readme-stats.vercel.app/api?username=JesusRico98&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
     </a>
-  <p ><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusRico98&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-
+<img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=JesusRico98&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300">
 </div>
 
 
